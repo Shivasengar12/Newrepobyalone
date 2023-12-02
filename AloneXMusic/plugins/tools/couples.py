@@ -96,7 +96,7 @@ async def ctest(_, message):
          TXT = f"""
 𝐓ᴏᴅᴀʏ's 𝐒ᴇʟᴇᴄᴛᴇᴅ 𝐂ᴏᴜᴘʟᴇs 🎉 :
 ➖➖➖➖➖➖➖➖➖➖➖➖
-{N1} + {N2} = ❣️
+{N1} + {N2} = ❣️ AAJ KE NAYE NIBBA NIBBI.... 
 ➖➖➖➖➖➖➖➖➖➖➖➖
 𝐍ᴇxᴛ 𝐂ᴏᴜᴘʟᴇs 𝐖ɪʟʟ 𝐁ᴇ 𝐒ᴇʟᴇᴄᴛᴇᴅ 𝐎ɴ {tomorrow} !!
 """
