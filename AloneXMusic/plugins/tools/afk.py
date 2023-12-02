@@ -14,7 +14,7 @@ async def active_afk(_, message: Message):
     if message.sender_chat:
         return
     user_id = message.from_user.id
-    verifier, reasondb = await is_afk(user_id)
+    verifier, reasondb = await tumhara dost aaj padai krega dost yani = (user_id)
     if verifier:
         await remove_afk(user_id)
         try:
